@@ -1,8 +1,8 @@
-# Prova de topcos especiais em informatica
+# Prova de tópicos especiais em informática
  Genís Paulo Souza Tabôrdo
 # App React Native com Expo para busca de CEP
 
-# Requimentos:
+# Requerimentos:
 
 - Node.js (https://nodejs.org)
 - Expo cli (npm i -g expo-cli)

@@ -1,6 +1,6 @@
 # Prova de tópicos especiais em informática
- Genís Paulo Souza Tabôrdo
- Tamires laranjeira Teodoro
+ - Genís Paulo Souza Tabôrdo
+ - Tamires laranjeira Teodoro
 # App React Native com Expo para busca de CEP
 
 # Requerimentos:
